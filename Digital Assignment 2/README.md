@@ -1,9 +1,12 @@
-### Hrudhvik Nangineni
-### 19BCE1195
+#### Hrudhvik Nangineni
+#### 19BCE1195
+<br><br><br>
 
+Click on NLP-DA2-19BCE1195_Hrudhvik Nangineni.ipynb file
 
-### Question
-<h3><center>CSE4022 Natural Language Processing</center></h3>
+<br><br><br>
+### Question::
+<h4><center>CSE4022 Natural Language Processing</center></h4>
 <center>Digital Assignment -2</center><br>
 1.	Create a text corpus with minimum 200 words (unique contents). Implement the following text processing   <br>                                                                   <p>(10 Marks)</p> <br>
 <li>Word segmentation</li>
