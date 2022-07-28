@@ -1,10 +1,10 @@
 #### Hrudhvik Nangineni
 #### 19BCE1195
-<br><br><br>
+<br>
 
 Click on NLP-DA2-19BCE1195_Hrudhvik Nangineni.ipynb file for solution
 
-<br><br><br>
+<br><br>
 ### Question::
 <h4><center>CSE4022 Natural Language Processing</center></h4>
 <center>Digital Assignment -2</center><br>
