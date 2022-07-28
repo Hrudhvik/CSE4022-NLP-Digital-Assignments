@@ -2,7 +2,7 @@
 #### 19BCE1195
 <br>
 
-Click on NLP-DA2-19BCE1195_Hrudhvik Nangineni.ipynb file for solution
+Click on NLP-DA1-19BCE1195_Hrudhvik Nangineni.ipynb file for solution
 
 <br><br>
 ### Question::
