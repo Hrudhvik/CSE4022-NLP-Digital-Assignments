@@ -1,5 +1,13 @@
-<center>CSE4022 Natural Language Processing</center>
-<center>Digital Assignment -1</center>
+#### Hrudhvik Nangineni
+#### 19BCE1195
+<br>
+
+Click on NLP-DA2-19BCE1195_Hrudhvik Nangineni.ipynb file for solution
+
+<br><br>
+### Question::
+<h4><center>CSE4022 Natural Language Processing</center></h4>
+<center>Digital Assignment -1</center><br>
 1.	Utilize Python NLTK (Natural Language Tool Kit) Platform and do the following. Install relevant Packages and Libraries   <br>                                                                   <p>(7 Marks)</p> <br>
 <li>Explore Brown Corpus and find the size, tokens, categories,
 </li>
